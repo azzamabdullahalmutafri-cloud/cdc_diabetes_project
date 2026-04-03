@@ -17,7 +17,7 @@ This is a **complete machine learning pipeline** for predicting diabetes health 
 
 ```
 cdc-diabetes-ml/
-├── cdc_diabetes_complete_project_commented.ipynb  # Full notebook with detailed comments
+├── cdc_diabetes_project.ipynb  # Full notebook with detailed comments
 ├── README.md                                      # This file
 ├── CONCLUSIONS.md                                 # Key findings and insights
 ├── requirements.txt                               # All dependencies
